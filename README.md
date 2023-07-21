@@ -1,2 +1,2 @@
 # neurosity-chatgpt-experiment
-experiments with BCI + LLM
+experiments with brain computer interface + LLM
